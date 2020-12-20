@@ -17,3 +17,9 @@ https://www.w3schools.com/cssref/css3_pr_background-size.asp
 https://umb.umassonline.net/bbcswebdav/pid-3863492-dt-content-rid-33391569_1/courses/B3010-2415/HTML-CSS%20Recap.pdf
 <br />
 https://www.youtube.com/watch?v=OVL7R0eT8jw
+
+<br />
+https://www.w3schools.com/html/html_formatting.asp
+<br />
+https://www.w3schools.com/cssref/css_websafe_fonts.asp
+<br />
